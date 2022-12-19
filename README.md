@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Bantchee
+- 👀 I’m interested in becoming a software engineer
+- 🌱 I’m currently learning react
+- 💞️ I’m looking to collaborate on fullstack projects
+- 📫 How to reach me by messaging this account 
