@@ -5,10 +5,12 @@
 
 - 🌱 I'm Currently learning how to link front end and back end code
 
+- 📚 Tech Stack: MERN
+
 - 👯 I’m looking to collaborate part time on any project
 
 - 👨‍💻 You can find all my projects on my [Github](https://github.com/Bantchee)
 
 - 📫 Want to talk? Email me at **stevenjarrett26@gmail.com**
 
-<h3 align="left">Languages, Tools, and Tech:</h3>
+<!-- <h3 align="left">Languages, Tools, and Tech:</h3> -->
