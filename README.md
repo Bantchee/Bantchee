@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Zeno</h1>
-<h3 align="center">A self-taught full stack developer</h3>
+<h3 align="center">A full stack developer</h3>
 
 - 👀 I'm Currently working on [Portfolio and Blog site](https://stevenjarrett.netlify.app/) built the MERN stack
 
