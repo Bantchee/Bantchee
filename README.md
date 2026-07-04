@@ -9,6 +9,6 @@
 
 - 👨‍💻 You can find all my projects on my [Github](https://github.com/Bantchee)
 
-- 📫 Want to talk? Email me at **jarzenojarrett@gmail.com**
+- 📫 Want to talk? Email me at 
 
 <!-- <h3 align="left">Languages, Tools, and Tech:</h3> -->
